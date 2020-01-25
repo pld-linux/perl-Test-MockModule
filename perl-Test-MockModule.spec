@@ -4,7 +4,6 @@
 #
 %define		pdir	Test
 %define		pnam	MockModule
-%include	/usr/lib/rpm/macros.perl
 Summary:	Test::MockModule - Override subroutines in a module for unit testing
 #Summary(pl.UTF-8):	
 Name:		perl-Test-MockModule
