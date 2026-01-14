@@ -8,7 +8,7 @@ Summary:	Test::MockModule - Override subroutines in a module for unit testing
 #Summary(pl.UTF-8):	
 Name:		perl-Test-MockModule
 Version:	0.05
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
